@@ -1,0 +1,29 @@
+@import url('./Cards.css');
+.time{
+    color: red;
+}
+.box{
+    height: 100px;
+    width: 100px;
+    background: cyan;
+}
+.box2{
+    height: 100px;
+    width: 100px;
+    background: rgb(238, 0, 255);
+}
+.btn{
+    margin-right: 30px;
+}
+h1{
+    text-align: center;
+    color: aliceblue;
+}
+ 
+.log{
+    height: 100px;
+    width: 100px;
+    background: rgb(94, 54, 79);
+    border-radius: 15px;
+
+}
